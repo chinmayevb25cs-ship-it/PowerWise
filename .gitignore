@@ -1,0 +1,19 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Raw dataset files
+data/household_power_consumption.txt
+data/individual+household+electric+power+consumption/
+
+# Secrets and local environment files
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
